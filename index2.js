@@ -1,1 +1,2 @@
-console.log ("hola mundo")
+let nombre = "Hector"
+console.log ("hola mundo"+ saludo)
